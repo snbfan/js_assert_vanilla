@@ -1,4 +1,3 @@
-# theadAssert
 Assert functionality with native js
 <html>
 <head>
