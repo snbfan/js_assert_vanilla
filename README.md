@@ -36,9 +36,6 @@ Assert functionality with native js
     <li>Test 09: Expected type null but found type Object</li>
     <li>Test 10: Expected propB.propC to be missing but was found</li>
   </ul>
-  
-  <h1>Output</h1>
-  <ul class="output" id="messages"></ul>
 
 </body>
 </html>
